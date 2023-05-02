@@ -1,0 +1,64 @@
+body
+{
+    margin:0px;
+    padding: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url("https://www.adventurenation.com/blog/wp-content/uploads/2016/02/Himalayan-motorbike-trip.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.register
+{
+    width: 600px;
+    display: block;
+    border: 1px solid grey ;
+    border-color: antiquewhite;
+    border-radius: 5px;
+    margin-top: 140px;
+    margin-left: 250px;
+    padding: 50px;
+    color: whitesmoke;
+    background-color: rgba(255, 255, 255, 0.5);
+
+}
+.register h5
+{
+   margin-left: 160px;
+   font-size: 2.5em;
+   color: #3B4371;
+}
+
+.register button
+{
+    margin-left: 160px;
+    margin-top: 30px;
+}
+
+.register label
+{
+   color: #3B4371;
+}
+.bottom span
+{
+    margin-top:10px;
+}
+
+.hadaccount{
+    margin-left: 70px;
+}
+#span2
+{
+    margin-left:40px;
+}
+#emailHelp
+{
+    color: #3B4371;
+}
+.bottom span
+{
+    color:  #3B4371;
+}
+.bottom p
+{
+    color:  #3B4371;
+}

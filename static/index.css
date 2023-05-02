@@ -1,0 +1,85 @@
+.nav-link{
+    color: aliceblue;
+}
+.nav-link:hover{
+    color: antiquewhite;
+}
+.navbar-brand{
+    color: aliceblue;
+}
+.nav-item
+{
+    margin-left: 30px;
+}
+.leftcorner
+{
+    display: flex;
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin-left: 50px;
+}
+.upcoming
+{
+    display: flex;
+    position: relative;
+    justify-content: center;
+    margin-top: 30px;
+    background-color: rgb(249, 247, 243);
+}
+
+.bikes h3
+{
+    font-size: 2.5rem;
+}
+.bikes a
+{
+    display: block;
+    font-size: 1.5rem;
+    text-decoration: none;
+    margin: 20px;
+    color: rgb(84, 76, 76);
+
+}
+.bikes a:hover
+{
+    color: rgb(242, 216, 182);
+}
+/* .gallery
+{
+    display: flex;
+    margin: 10;
+    padding: 10;
+}
+
+.gallery img 
+{
+    background-color: whitesmoke;
+    
+
+}
+.gallery a
+{
+    text-decoration: none;
+    color: rgb(210, 44, 44);
+    font-weight: 200;
+    
+} */
+
+.footer
+{
+    height: 50px;
+    width: 500px;
+    display: flex;
+    padding: 10px;
+}
+.footer img 
+{
+    width: 50px;
+    align-items: center;
+}
+.footer span
+{
+    color: rgb(64, 61, 61);
+
+}

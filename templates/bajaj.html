@@ -1,0 +1,24 @@
+{% extends 'index.html' %}
+{% load static %}
+{% block content %}
+<h1 class="text-center text-success" align="center" class="text-success">Bajaj Bikes</h1>
+{% for i in BajajList %}
+<div class="container" align="center">
+    <div class="gallery">
+        <a target="_blank" href="{{i.0}}"> BikeName:<b class="text-primary
+            ">{{i.2}}</b><br>
+
+            <img src="{{i.1}}" alt="not available" height="150" width="250">
+
+        </a><br>
+        <i>price:<b>{{i.3}}</b></i>
+
+    </div>
+   
+     
+</div>
+{% endfor %}
+<link href="{% static 'index.css' %}" rel="stylesheet">
+
+{% endblock content %}
+

@@ -1,0 +1,17 @@
+.gallery
+{
+    width: 300px;
+    border: 1 px solid grey;
+    border-radius: 5px;
+    padding:5px;
+}
+
+.gallery b
+{
+    color:rgb(71, 69, 65);
+}
+
+.gallery a
+{
+    text-decoration: none;
+}

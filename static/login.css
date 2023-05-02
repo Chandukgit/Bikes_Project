@@ -1,0 +1,91 @@
+
+/* #exampleInputEmail1{
+    size: 50%;
+} */
+body
+{
+  margin:0;
+  padding:0;
+  background-image: url("https://images.thequint.com/thequint%2F2016-03%2F8772da12-9abb-4340-85aa-65a807e15b0b%2FHero.jpg?auto=format%2Ccompress&fmt=webp&width=720&w=1200");
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+.container
+{
+    margin-top: 100px;
+
+}
+
+.form-container {
+    max-width: 500px;
+    margin: 0 auto;
+    border: 1px solid rgb(244, 238, 238);
+    border-radius: 5px;
+    padding: 30px;
+
+  }
+  
+.form-control {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  #forgot
+  {
+    margin-left: 120px;
+    font-size: small;
+    margin-top: 10px;
+    text-decoration: none;
+    color: rgb(55, 49, 49);
+  }
+
+  .btn
+  {
+    margin-left: 200px;
+    margin-top: 20px;
+  }
+
+  #emailHelp{
+    margin-left: 140px;
+  }
+  .form-group label
+  {
+    margin-left: 140px;
+  }
+  #forgot
+  {
+    margin-left: 250px;
+    margin-top: 10px;
+  }
+
+.links
+{
+  margin-left: 150px;
+  margin-top: 20px;
+}
+.links i
+{
+  align-items: center;
+  margin-left: 30px;
+  font-size: 25px;
+  color: rgb(237, 232, 228);
+}
+
+/* .reg_con 
+{
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: 10px;
+}
+
+.navbar-brand
+{
+  color: rgb(35, 33, 33);
+}
+
+.navbar-brand :hover
+{
+  color: gray;
+} */
