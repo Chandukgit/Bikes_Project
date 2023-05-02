@@ -1,1 +1,0 @@
-# BikesProject-using-python-Django
